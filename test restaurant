@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Restaurant Menu</title>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <h2>Restaurant Menu</h2>
+    <!-- Step 1: Create the table structure -->
+    <table>
+
+      <!-- Table head -->
+      <thead>
+        <tr>
+          <th>Dish</th>
+          <th>Description</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+
+      <!-- Table body -->
+      <tbody>
+        <!-- Step 2: Populate the table with menu items -->
+        <tr>
+          <td><strong>Savory Bliss Bowl</strong></td>
+          <td>Quinoa, roasted veggies, grilled chicken, tahini dressing.</td>
+          <td><em>$12.99</em></td>
+        </tr>
+        <tr>
+          <td><strong>Mediterranean Delight Wrap</strong></td>
+          <td>Halloumi cheese, spinach, tomatoes, tzatziki in a wrap;
+
+</td>
+          <td><em>$10.49</em></td>
+        </tr>
+        <tr>
+          <td><strong>Sizzling BBQ Burger</strong></td>
+          <td>Beef patty, bacon, cheddar, caramelized onions, fries.</td>
+          <td><em>$13.99</em></td>
+        </tr>
+        <tr>
+          <td><strong>Veggie Harvest Salad</strong></td>
+          <td>Greens, sweet potatoes, chickpeas, avocado, feta, vinaigrette;</td>
+          <td><em>$9.99</em></td>
+        </tr>
+        <!-- Add one more row for the last menu item -->
+        <tr>
+          <td><strong>Seafood Pasta Extravaganza</strong></td>
+          <td>Shrimp, scallops, mussels, linguine, garlic wine sauce;</td>
+          <td><em>$13.99</em></td>
+        </tr>
+      </thead>
+    </head>
+  </body>
+</html>
